@@ -1,0 +1,16 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	23:48:38 PM
+
+	Bill Number : 18
+	Customer Name : Shyam Nair
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  Beaphar	 1	  121.00
+
+	TOTAL: Rs 121.00
+	Thanks for visiting

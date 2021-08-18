@@ -1,0 +1,16 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	20:52:18 PM
+
+	Bill Number : 9
+	Customer Name : Shyam Nair
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  crocin 	 2	  220.00
+
+	TOTAL: Rs 220.00
+	Thanks for visiting

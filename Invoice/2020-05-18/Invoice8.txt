@@ -1,0 +1,17 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	23:45:08 PM
+
+	Bill Number : 16
+	Customer Name : Shyam sad
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  Mele 25	 1	  198.00
+	2	  Pepsode	 1	  154.00
+
+	TOTAL: Rs 352.00
+	Thanks for visiting

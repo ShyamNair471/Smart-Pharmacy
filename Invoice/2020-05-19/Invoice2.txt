@@ -1,0 +1,16 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-19	00:25:28 AM
+
+	Bill Number : 21
+	Customer Name : adsfsadf dsaf
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  Sensody	 1	  165.00
+
+	TOTAL: Rs 165.00
+	Thanks for visiting

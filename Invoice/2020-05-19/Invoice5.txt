@@ -1,0 +1,16 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-19	09:48:11 AM
+
+	Bill Number : 24
+	Customer Name : Abc sdakjn
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  LC crea	 1	  264.00
+
+	TOTAL: Rs 264.00
+	Thanks for visiting

@@ -1,0 +1,17 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-28	11:44:14 AM
+
+	Bill Number : 26
+	Customer Name : Aditya Nair
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  Crocin 	 3	  330.00
+	2	  Colgate	 5	  660.00
+
+	TOTAL: Rs 990.00
+	Thanks for visiting

@@ -1,0 +1,19 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	21:45:32 PM
+
+	Bill Number : 10
+	Customer Name : Shyam Nair
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  crocin 	 2	  220.00
+	2	  sensody	 1	  165.00
+	3	  colgate	 1	  132.00
+	4	  vicks v	 1	  264.00
+
+	TOTAL: Rs 781.00
+	Thanks for visiting

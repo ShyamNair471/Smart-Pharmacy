@@ -1,0 +1,17 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	23:12:07 PM
+
+	Bill Number : 12
+	Customer Name : asd asd
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  Motrin 	 2	  154.00
+	2	  Mele 25	 2	  396.00
+
+	TOTAL: Rs 550.00
+	Thanks for visiting

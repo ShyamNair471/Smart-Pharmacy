@@ -1,0 +1,17 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	23:45:08 PM
+
+	Bill Number : 15
+	Customer Name : Shyam Nair
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  Colgate	 1	  132.00
+	2	  Vicks N	 1	  165.00
+
+	TOTAL: Rs 297.00
+	Thanks for visiting

@@ -1,0 +1,16 @@
+		COVID-19 Relief Pharmacy Pvt Ltd
+		       Chennai,India
+		        9799999999
+		         Invoice
+		2020-05-18	23:45:08 PM
+
+	Bill Number : 17
+	Customer Name : Shyam Happy
+
+	-----------------------------------------
+	S.No	  Products	 Qty	  Amount
+	-----------------------------------------
+	1	  ACQ 100	 1	  803.00
+
+	TOTAL: Rs 803.00
+	Thanks for visiting
